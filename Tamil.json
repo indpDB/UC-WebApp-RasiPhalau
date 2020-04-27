@@ -1,0 +1,50 @@
+[
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Mesha.png",
+		"URL": "http://www.astrosage.com/tamil/rasi-palan/mesham-rasi-palan.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Vrusha.png",
+		"URL": "http://www.astrosage.com/tamil/rasi-palan/rishabam-rasi-palan.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Mithuna.png",
+		"URL": "http://www.astrosage.com/tamil/rasi-palan/midhunam-rasi-palan.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kataka.png",
+		"URL": "http://www.astrosage.com/tamil/rasi-palan/kadagam-rasi-palan.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Simha.png",
+		"URL": "http://www.astrosage.com/tamil/rasi-palan/simmam-rasi-palan.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kanya.png",
+		"URL": "http://www.astrosage.com/tamil/rasi-palan/kanni-rasi-palan.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Tula.png",
+		"URL": "http://www.astrosage.com/tamil/rasi-palan/thulaam-rasi-palan.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/masterVrushchika.png",
+		"URL": "http://www.astrosage.com/tamil/rasi-palan/viruchigam-rasi-palan.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Dhanusu.png",
+		"URL": "http://www.astrosage.com/tamil/rasi-palan/dhanusu-rasi-palan.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Makara.png",
+		"URL": "http://www.astrosage.com/tamil/rasi-palan/magaram-rasi-palan.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kumba.png",
+		"URL": "http://www.astrosage.com/tamil/rasi-palan/kumbam-rasi-palan.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Meena.png",
+		"URL": "http://www.astrosage.com/tamil/rasi-palan/meenam-rasi-palan.asp"
+	}
+]

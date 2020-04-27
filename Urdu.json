@@ -1,0 +1,50 @@
+[
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Mesha.png",
+		"URL": "http://www.astrosage.com/urdu/zaicha/hamal-zaicha.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Vrusha.png",
+		"URL": "http://www.astrosage.com/urdu/zaicha/soor-zaicha.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Mithuna.png",
+		"URL": "http://www.astrosage.com/urdu/zaicha/jauza-zaicha.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kataka.png",
+		"URL": "http://www.astrosage.com/urdu/zaicha/sartan-zaicha.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Simha.png",
+		"URL": "http://www.astrosage.com/urdu/zaicha/asad-zaicha.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kanya.png",
+		"URL": "http://www.astrosage.com/urdu/zaicha/sumbla-zaicha.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Tula.png",
+		"URL": "http://www.astrosage.com/urdu/zaicha/meezan-zaicha.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/masterVrushchika.png",
+		"URL": "http://www.astrosage.com/urdu/zaicha/aqrab-zaicha.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Dhanusu.png",
+		"URL": "http://www.astrosage.com/urdu/zaicha/quas-zaicha.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Makara.png",
+		"URL": "http://www.astrosage.com/urdu/zaicha/jadi-zaicha.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kumba.png",
+		"URL": "http://www.astrosage.com/urdu/zaicha/dilo-zaicha.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Meena.png",
+		"URL": "http://www.astrosage.com/urdu/zaicha/haut-zaicha.asp"
+	}
+]

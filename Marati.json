@@ -1,0 +1,50 @@
+[
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Mesha.png",
+		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/mesh-rashi-bhavishya.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Vrusha.png",
+		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/vrishabha-rashi-bhavishya.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Mithuna.png",
+		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/mithun-rashi-bhavishya.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kataka.png",
+		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/karka-rashi-bhavishya.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Simha.png",
+		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/simha-rashi-bhavishya.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kanya.png",
+		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/kanya-rashi-bhavishya.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Tula.png",
+		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/tula-rashi-bhavishya.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/masterVrushchika.png",
+		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/vrishchika-rashi-bhavishya.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Dhanusu.png",
+		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/dhanu-rashi-bhavishya.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Makara.png",
+		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/makara-rashi-bhavishya.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kumba.png",
+		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/kumbha-rashi-bhavishya.asp"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Meena.png",
+		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/meena-rashi-bhavishya.asp"
+	}
+]
