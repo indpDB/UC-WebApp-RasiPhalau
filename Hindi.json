@@ -1,50 +1,50 @@
 [
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Mesha.png",
-		"URL": "http://hindi.astrosage.com/rashifal/mesh-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Hindi_Mesha.png",
+		"URL": "https://hindi.webdunia.com/astrology/zodiac/aries/phy.htm"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Vrusha.png",
-		"URL": "http://hindi.astrosage.com/rashifal/vrishabha-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Hindi_Vrusha.png",
+		"URL": "https://hindi.webdunia.com/astrology/zodiac/taurus/phy.htm"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Mithuna.png",
-		"URL": "http://hindi.astrosage.com/rashifal/mithun-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Hindi_Mithuna.png",
+		"URL": "https://hindi.webdunia.com/astrology/zodiac/gemini/phy.htm"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kataka.png",
-		"URL": "http://hindi.astrosage.com/rashifal/karka-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Hindi_Kataka.png",
+		"URL": "https://hindi.webdunia.com/astrology/zodiac/cancer/phy.htm"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Simha.png",
-		"URL": "http://hindi.astrosage.com/rashifal/singh-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Hindi_Simha.png",
+		"URL": "https://hindi.webdunia.com/astrology/zodiac/leo/phy.htm"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kanya.png",
-		"URL": "http://hindi.astrosage.com/rashifal/kanya-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Hindi_Kanya.png",
+		"URL": "https://hindi.webdunia.com/astrology/zodiac/virgo/phy.htm"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Tula.png",
-		"URL": "http://hindi.astrosage.com/rashifal/tula-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Hindi_Tula.png",
+		"URL": "https://hindi.webdunia.com/astrology/zodiac/libra/phy.htm"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/masterVrushchika.png",
-		"URL": "http://hindi.astrosage.com/rashifal/vrishchika-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Hindi_Vrushchika.png",
+		"URL": "https://hindi.webdunia.com/astrology/zodiac/scorpio/phy.htm"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Dhanusu.png",
-		"URL": "http://hindi.astrosage.com/rashifal/dhanu-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Hindi_Dhanusu.png",
+		"URL": "https://hindi.webdunia.com/astrology/zodiac/sagitterius/phy.htm"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Makara.png",
-		"URL": "http://hindi.astrosage.com/rashifal/makara-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Hindi_Makara.png",
+		"URL": "https://hindi.webdunia.com/astrology/zodiac/capricorn/phy.htm"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kumba.png",
-		"URL": "http://hindi.astrosage.com/rashifal/kumbha-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Hindi_Kumbha.png",
+		"URL": "https://hindi.webdunia.com/astrology/zodiac/aquarius/phy.htm"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Meena.png",
-		"URL": "http://hindi.astrosage.com/rashifal/meena-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Hindi_Meena.png",
+		"URL": "https://hindi.webdunia.com/astrology/zodiac/pisces/phy.htm"
 	}
 ]
