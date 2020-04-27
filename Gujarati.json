@@ -1,50 +1,51 @@
 [
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Mesha.png",
-		"URL": "http://www.astrosage.com/gujarati/rashi-bhavishya/mesh-rashi-bhavishya.asp"
+		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=aries&faladesh=phy.htm
+		"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Vrusha.png",
-		"URL": "http://www.astrosage.com/gujarati/rashi-bhavishya/vrushabh-rashi-bhavishya.asp"
+		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=taurus&faladesh=phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Mithuna.png",
-		"URL": "http://www.astrosage.com/gujarati/rashi-bhavishya/mithun-rashi-bhavishya.asp"
+		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=gemini&faladesh=phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Kataka.png",
-		"URL": "http://www.astrosage.com/gujarati/rashi-bhavishya/kark-rashi-bhavishya.asp"
+		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=cancer&faladesh=phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Simha.png",
-		"URL": "http://www.astrosage.com/gujarati/rashi-bhavishya/singh-rashi-bhavishya.asp"
+		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=leo&faladesh=phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Kanya.png",
-		"URL": "http://www.astrosage.com/gujarati/rashi-bhavishya/kanya-rashi-bhavishya.asp"
+		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=virgo&faladesh=phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Tula.png",
-		"URL": "http://www.astrosage.com/gujarati/rashi-bhavishya/tula-rashi-bhavishya.asp"
+		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=libra&faladesh=phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Vrushchika.png",
-		"URL": "http://www.astrosage.com/gujarati/rashi-bhavishya/vrushchik-rashi-bhavishya.asp"
+		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=scorpio&faladesh=phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Dhanusu.png",
-		"URL": "http://www.astrosage.com/gujarati/rashi-bhavishya/dhanu-rashi-bhavishya.asp"
+		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=sagitterius&faladesh=phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Makara.png",
-		"URL": "http://www.astrosage.com/gujarati/rashi-bhavishya/makar-rashi-bhavishya.asp"
+		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=capricorn&faladesh=phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Kumbha.png",
-		"URL": "http://www.astrosage.com/gujarati/rashi-bhavishya/kumbh-rashi-bhavishya.asp"
+		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=aquarius&faladesh=phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Meena.png",
-		"URL": "http://www.astrosage.com/gujarati/rashi-bhavishya/meen-rashi-bhavishya.asp"
+		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=pisces&faladesh=phy.htm"
 	}
 ]
