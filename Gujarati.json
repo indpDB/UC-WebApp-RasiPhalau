@@ -1,51 +1,50 @@
 [
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Mesha.png",
-		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=aries&faladesh=phy.htm
-		"
+		"URL": "https://m-gujarati.webdunia.com/astrology/zodiac/aries/phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Vrusha.png",
-		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=taurus&faladesh=phy.htm"
+		"URL": "https://m-gujarati.webdunia.com/astrology/zodiac/taurus/phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Mithuna.png",
-		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=gemini&faladesh=phy.htm"
+		"URL": "https://m-gujarati.webdunia.com/astrology/zodiac/gemini/phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Kataka.png",
-		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=cancer&faladesh=phy.htm"
+		"URL": "https://m-gujarati.webdunia.com/astrology/zodiac/cancer/phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Simha.png",
-		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=leo&faladesh=phy.htm"
+		"URL": "https://m-gujarati.webdunia.com/astrology/zodiac/leo/phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Kanya.png",
-		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=virgo&faladesh=phy.htm"
+		"URL": "https://m-gujarati.webdunia.com/astrology/zodiac/virgo/phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Tula.png",
-		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=libra&faladesh=phy.htm"
+		"URL": "https://m-gujarati.webdunia.com/astrology/zodiac/libra/phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Vrushchika.png",
-		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=scorpio&faladesh=phy.htm"
+		"URL": "https://m-gujarati.webdunia.com/astrology/zodiac/scorpio/phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Dhanusu.png",
-		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=sagitterius&faladesh=phy.htm"
+		"URL": "https://m-gujarati.webdunia.com/astrology/zodiac/sagitterius/phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Makara.png",
-		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=capricorn&faladesh=phy.htm"
+		"URL": "https://m-gujarati.webdunia.com/astrology/zodiac/capricorn/phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Kumbha.png",
-		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=aquarius&faladesh=phy.htm"
+		"URL": "https://m-gujarati.webdunia.com/astrology/zodiac/aquarius/phy.htm"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati_Meena.png",
-		"URL": "http://gujarati.webdunia.com/astro/faladesh/?rashi=pisces&faladesh=phy.htm"
+		"URL": "https://m-gujarati.webdunia.com/astrology/zodiac/pisces/phy.htm"
 	}
 ]
