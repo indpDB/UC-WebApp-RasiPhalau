@@ -1,50 +1,50 @@
 [
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Mesha.png",
-		"URL": "http://astrosage.com/nepali/rashifal/mesh-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Mesha.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Mesh"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Vrusha.png",
-		"URL": "http://astrosage.com/nepali/rashifal/vrishabha-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Vrusha.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Brish"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Mithuna.png",
-		"URL": "http://astrosage.com/nepali/rashifal/mithun-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Mithuna.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Mithun"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kataka.png",
-		"URL": "http://astrosage.com/nepali/rashifal/karkat-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Kataka.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Karkat"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Simha.png",
-		"URL": "http://astrosage.com/nepali/rashifal/simha-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Simha.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Singha"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kanya.png",
-		"URL": "http://astrosage.com/nepali/rashifal/kanya-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Kanya.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Kanya"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Tula.png",
-		"URL": "http://astrosage.com/nepali/rashifal/tula-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Tula.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Tula"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/masterVrushchika.png",
-		"URL": "http://astrosage.com/nepali/rashifal/vrishchika-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Vrushchika.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Brischik"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Dhanusu.png",
-		"URL": "http://astrosage.com/nepali/rashifal/dhanu-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Dhanusu.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Dhanu"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Makara.png",
-		"URL": "http://astrosage.com/nepali/rashifal/makara-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Makara.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Makar"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kumba.png",
-		"URL": "http://astrosage.com/nepali/rashifal/kumbha-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Kumba.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Kumbha"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Meena.png",
-		"URL": "http://astrosage.com/nepali/rashifal/meen-rashifal.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Meena.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Meen"
 	}
 ]

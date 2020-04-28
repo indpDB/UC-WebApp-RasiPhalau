@@ -1,50 +1,50 @@
 [
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Mesha.png",
-		"URL": "http://www.astrosage.com/urdu/zaicha/hamal-zaicha.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Urdhu_Mesha.png",
+		"URL": "http://www.horoscopeurdu.com/aap_ka_din/aries_hamal.php"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Vrusha.png",
-		"URL": "http://www.astrosage.com/urdu/zaicha/soor-zaicha.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Urdhu_Vrusha.png",
+		"URL": "http://www.horoscopeurdu.com/aap_ka_din/cancer_sartan.php"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Mithuna.png",
-		"URL": "http://www.astrosage.com/urdu/zaicha/jauza-zaicha.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Urdhu_Mithuna.png",
+		"URL": "http://www.horoscopeurdu.com/aap_ka_din/capricorn_jaddi.php"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kataka.png",
-		"URL": "http://www.astrosage.com/urdu/zaicha/sartan-zaicha.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Urdhu_Kataka.png",
+		"URL": "http://www.horoscopeurdu.com/aap_ka_din/gemini_joza.php"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Simha.png",
-		"URL": "http://www.astrosage.com/urdu/zaicha/asad-zaicha.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Urdhu_Simha.png",
+		"URL": "http://www.horoscopeurdu.com/aap_ka_din/libra_mizan.php"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kanya.png",
-		"URL": "http://www.astrosage.com/urdu/zaicha/sumbla-zaicha.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Urdhu_Kanya.png",
+		"URL": "http://www.horoscopeurdu.com/aap_ka_din/taurus_sore.php"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Tula.png",
-		"URL": "http://www.astrosage.com/urdu/zaicha/meezan-zaicha.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Urdhu_Tula.png",
+		"URL": "http://www.horoscopeurdu.com/aap_ka_din/virgo_sunblah.php"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/masterVrushchika.png",
-		"URL": "http://www.astrosage.com/urdu/zaicha/aqrab-zaicha.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Urdhu_Vrushchika.png",
+		"URL": "http://www.horoscopeurdu.com/aap_ka_din/leo_asad.php"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Dhanusu.png",
-		"URL": "http://www.astrosage.com/urdu/zaicha/quas-zaicha.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Urdhu_Dhanusu.png",
+		"URL": "http://www.horoscopeurdu.com/aap_ka_din/sagittarius_qose.php"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Makara.png",
-		"URL": "http://www.astrosage.com/urdu/zaicha/jadi-zaicha.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Urdhu_Makara.png",
+		"URL": "http://www.horoscopeurdu.com/aap_ka_din/scorpio_uqrab.php"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kumba.png",
-		"URL": "http://www.astrosage.com/urdu/zaicha/dilo-zaicha.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Urdhu_Kumba.png",
+		"URL": "http://www.horoscopeurdu.com/aap_ka_din/aquarius_dallo.php"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Meena.png",
-		"URL": "http://www.astrosage.com/urdu/zaicha/haut-zaicha.asp"
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Urdhu_Meena.png",
+		"URL": "http://www.horoscopeurdu.com/aap_ka_din/pisces_hoot.php"
 	}
 ]
