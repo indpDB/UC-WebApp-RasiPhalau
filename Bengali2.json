@@ -1,0 +1,50 @@
+[
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Bengali_Mesha2.png",
+		"URL": "https://www.anandabazar.com/horoscope/daily-aries"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Bengali_Vrusha2.png",
+		"URL": "https://www.anandabazar.com/horoscope/daily-taurus"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Bengali_Mithuna2.png",
+		"URL": "https://www.anandabazar.com/horoscope/daily-gemini"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Bengali_Kataka2.png",
+		"URL": "https://www.anandabazar.com/horoscope/daily-cancer"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Bengali_Simha2.png",
+		"URL": "https://www.anandabazar.com/horoscope/daily-leo"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Bengali_Kanya2.png",
+		"URL": "https://www.anandabazar.com/horoscope/daily-virgo"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Bengali_Tula2.png",
+		"URL": "https://www.anandabazar.com/horoscope/daily-libra"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Bengali_Vrushchika2.png",
+		"URL": "https://www.anandabazar.com/horoscope/daily-scorpio"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Bengali_Dhanusu2.png",
+		"URL": "https://www.anandabazar.com/horoscope/daily-sagittarius"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Bengali_Makara2.png",
+		"URL": "https://www.anandabazar.com/horoscope/daily-capricorn"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Bengali_Kumbha2.png",
+		"URL": "https://www.anandabazar.com/horoscope/daily-aquarius"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Bengali_Meena2.png",
+		"URL": "https://www.anandabazar.com/horoscope/daily-pisces"
+	}
+]
