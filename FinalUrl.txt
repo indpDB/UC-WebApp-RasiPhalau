@@ -1,19 +1,29 @@
 https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Bengali.json
+https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Bengali2.json
 
 https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati.json
+https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Gujarati2.json
 
 https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Hindi.json
+https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Hindi2.json
 
 https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kannada.json
+https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Kannada2.json
 
 https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Malayalam.json
+https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Malayalam2.json
 
 https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marati.json
+https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marati2.json
 
 https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali.json
+https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali2.json
 
 https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Telugu.json
+https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Telugu2.json
 
 https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Tamil.json
+https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Tamil2.json
 
 https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Urdu.json
+https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Urdu2.json
