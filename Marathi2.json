@@ -1,50 +1,50 @@
 [
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Mesha2.png",
-		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/mesh-rashi-bhavishya.asp"
+		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/aries/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Vrusha2.png",
-		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/vrishabha-rashi-bhavishya.asp"
+		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/taurus/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Mithuna2.png",
-		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/mithun-rashi-bhavishya.asp"
+		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/gemini/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Kataka2.png",
-		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/karka-rashi-bhavishya.asp"
+		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/cancer/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Simha2.png",
-		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/simha-rashi-bhavishya.asp"
+		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/leo/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Kanya2.png",
-		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/kanya-rashi-bhavishya.asp"
+		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/virgo/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Tula2.png",
-		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/tula-rashi-bhavishya.asp"
+		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/libra/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Vrushchika2.png",
-		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/vrishchika-rashi-bhavishya.asp"
+		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/scorpio/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Dhanusu2.png",
-		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/dhanu-rashi-bhavishya.asp"
+		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/sagittarius/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Makara2.png",
-		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/makara-rashi-bhavishya.asp"
+		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/capricorn/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Kumbha2.png",
-		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/kumbha-rashi-bhavishya.asp"
+		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/aquarius/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Meena2.png",
-		"URL": "http://www.astrosage.com/marathi/rashi-bhavishya/meena-rashi-bhavishya.asp"
+		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/pisces/"
 	}
 ]
