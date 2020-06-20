@@ -1,0 +1,50 @@
+[
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Mesha2.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Mesh"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Vrusha2.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Brish"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Mithuna2.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Mithun"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Kataka2.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Karkat"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Simha2.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Singha"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Kanya2.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Kanya"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Tula2.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Tula"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Vrushchika2.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Brischik"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Dhanusu2.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Dhanu"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Makara2.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Makar"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Kumbha2.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Kumbha"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Napali_Meena2.png",
+		"URL": "https://www.hamropatro.com/rashifal/daily/Meen"
+	}
+]
