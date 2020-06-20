@@ -1,0 +1,50 @@
+[
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Malyalam_Mesha2.png",
+		"URL": "https://m-malayalam.webdunia.com/astrology/zodiac/aries/phy.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Malyalam_Vrusha2.png",
+		"URL": "https://m-malayalam.webdunia.com/astrology/zodiac/taurus/phy.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Malyalam_Mithuna2.png",
+		"URL": "https://m-malayalam.webdunia.com/astrology/zodiac/gemini/phy.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Malyalam_Kataka2.png",
+		"URL": "https://m-malayalam.webdunia.com/astrology/zodiac/cancer/phy.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Malyalam_Simha2.png",
+		"URL": "https://m-malayalam.webdunia.com/astrology/zodiac/leo/phy.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Malyalam_Kanya2.png",
+		"URL": "https://m-malayalam.webdunia.com/astrology/zodiac/virgo/phy.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Malyalam_Tula2.png",
+		"URL": "https://m-malayalam.webdunia.com/astrology/zodiac/libra/phy.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Malyalam_Vrushchika2.png",
+		"URL": "https://m-malayalam.webdunia.com/astrology/zodiac/scorpio/phy.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Malyalam_Dhanusu2.png",
+		"URL": "https://m-malayalam.webdunia.com/astrology/zodiac/sagitterius/phy.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Malyalam_Makara2.png",
+		"URL": "https://m-malayalam.webdunia.com/astrology/zodiac/capricorn/phy.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Malyalam_Kumbha2.png",
+		"URL": "https://m-malayalam.webdunia.com/astrology/zodiac/aquarius/phy.htm"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Malyalam_Meena2.png",
+		"URL": "https://m-malayalam.webdunia.com/astrology/zodiac/pisces/phy.htm"
+	}
+]
