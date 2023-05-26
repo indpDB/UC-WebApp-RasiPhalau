@@ -1,50 +1,50 @@
 [
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Mesha2.png",
-		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/aries/"
+		"URL": "http://astro.lokmat.com/horoscopes/daily/aries/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Vrusha2.png",
-		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/taurus/"
+		"URL": "http://astro.lokmat.com/horoscopes/daily/taurus/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Mithuna2.png",
-		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/gemini/"
+		"URL": "http://astro.lokmat.com/horoscopes/daily/gemini/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Kataka2.png",
-		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/cancer/"
+		"URL": "http://astro.lokmat.com/horoscopes/daily/cancer/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Simha2.png",
-		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/leo/"
+		"URL": "http://astro.lokmat.com/horoscopes/daily/leo/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Kanya2.png",
-		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/virgo/"
+		"URL": "http://astro.lokmat.com/horoscopes/daily/virgo/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Tula2.png",
-		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/libra/"
+		"URL": "http://astro.lokmat.com/horoscopes/daily/libra/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Vrushchika2.png",
-		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/scorpio/"
+		"URL": "http://astro.lokmat.com/horoscopes/daily/scorpio/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Dhanusu2.png",
-		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/sagittarius/"
+		"URL": "http://astro.lokmat.com/horoscopes/daily/sagittarius/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Makara2.png",
-		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/capricorn/"
+		"URL": "http://astro.lokmat.com/horoscopes/daily/capricorn/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Kumbha2.png",
-		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/aquarius/"
+		"URL": "http://astro.lokmat.com/horoscopes/daily/aquarius/"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-RasiPhalau/master/Marathi_Meena2.png",
-		"URL": "http://astro.lokmat.com/horoscopes/daily-horoscope/pisces/"
+		"URL": "http://astro.lokmat.com/horoscopes/daily/pisces/"
 	}
 ]
